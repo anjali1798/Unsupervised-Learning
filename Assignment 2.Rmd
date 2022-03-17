@@ -1,9 +1,3 @@
----
-title: "ST-O13 Assignment 2 (Unsupervised Learning)"
-author: "Keerti Athalye(1803) Anjali Nehul(1838)"
-date: "4 November 2019"
-output: word_document
----
 ##Introduction
 The App Store is a digital distribution platform, developed and maintained by Apple Inc., for mobile apps on its iOS operating system. The App Store was opened on July 10, 2008, with an initial 500 applications available.   
 The data consists of variables: ID, Name, Average User Rating, User Rating Count, Price, Age Rating, Size, Developer, Languages in which the app is available, Genre along with the Primary Genre of the app, Original & Current Version Release Date.  
